@@ -1,0 +1,5 @@
+{
+  "name": "Restaurant OS",
+  "description": "A smart restaurant ordering system featuring QR-code based table selection and real-time kitchen tracking.",
+  "requestFramePermissions": []
+}
